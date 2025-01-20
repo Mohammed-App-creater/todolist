@@ -52,7 +52,7 @@ This is a simple Todo List application built using Node.js, Express, EJS, and Mo
 
 ## Overview
 
-![Example Image 1](https://github.com/Mohammed-App-creater/todolist/tree/main/views/Screenshot 2025-01-20 223658.png).
+![Example Image 1](https://github.com/Mohammed-App-creater/todolist/blob/main/public/Todolist%20v1%20Starting%20Styles/Screenshot%202025-01-20%20223658.png?raw=true).
 
 ## License
 
